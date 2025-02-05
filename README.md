@@ -1,0 +1,1 @@
+Projeto de iniciação científica intitulado "Análise de modelos inferenciais e preditivos para a dengue em municípios do estado de São Paulo", onde fazemos a ampla exploração de modelos estatísticos e de aprendizado de máquina para a previsão de novos casos de dengue em municípios do interior paulista
